@@ -1,0 +1,9 @@
+# Python env
+.venv
+
+# Jetbrains
+.idea
+
+# folders
+backup
+images
